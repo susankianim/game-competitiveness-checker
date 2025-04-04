@@ -27,7 +27,7 @@
    ```
 
 ### Using the Executable
-1. Download `game-competitiveness-checker.exe` from the [Releases](https://github.com/susankianim/game-competitiveness-checker/releases) page.
+1. Download `GameCompetitivenessChecker.exe` from the [Releases](https://github.com/susankianim/game-competitiveness-checker/releases/latest) page.
 2. Double-click to run (Windows, GUI mode only).
 
 ## Usage
